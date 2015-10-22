@@ -1,3 +1,3 @@
 # iop90cwl.github.io
 
-READ ME SEMOUR
+READ ME SEYMOUR
